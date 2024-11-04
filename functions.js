@@ -12,7 +12,7 @@ function printName(name) {
  * Create a function named `printAge`
  * - that takes a birth year as a parameter,
  * - and prints the age on the screen.
- * - Age = current year - birth
+ * - Age = current year - birth-
  */
 function printAge(birth) {
   console.log(2024 - birth);
